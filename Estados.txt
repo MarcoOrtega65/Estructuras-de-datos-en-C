@@ -1,0 +1,32 @@
+ASAGUASCALIENTES*********
+BCCALIFORNIA*************
+BSBAJA CALIFORNIA SUR****
+CCCAMPECHE***************
+CSCHIAPAS****************
+CHCHIHUAHUA**************
+CLCOAHUILA***************
+CMCOLIMA*****************
+DFDISTRITO FEDERAL*******
+DGDURANGO****************
+GTGUANAJUATO*************
+GRGUERRERO***************
+HGHIDALGO****************
+JCJALISCO****************
+MCMEXICO*****************
+MNMICHOACAN**************
+MSMORELOS****************
+NTNAYARIT****************
+NLNUEVO LEON*************
+OCOAXACA*****************
+PLPUEBLA*****************
+QTQUERETARO**************
+QRQUINTANA ROO***********
+SPSAN LUIS POTOSI********
+SLSINALOA****************
+SRSONORA*****************
+TCTABASCO****************
+TSTAMAULIPAS*************
+TLTLAXCALA***************
+VZVERACRUZ***************
+YNYUCATAN****************
+ZSZACATECAS**************
